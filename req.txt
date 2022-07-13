@@ -1,0 +1,8 @@
+seaborn
+requests
+numpy
+pandas
+statsmodels
+matplotlib
+sklearn
+networkx==2.6.3
